@@ -1,0 +1,29 @@
+{
+  "name": "sanic-csv",
+  "version": "0.1.0",
+  "description": "Fast csv parser for node/browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axel669/sanic-csv.git"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": "Axel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axel669/sanic-csv/issues"
+  },
+  "homepage": "https://github.com/axel669/sanic-csv#readme",
+  "devDependencies": {},
+  "dependencies": {},
+  "files": [
+    "index.js",
+    "parse.js",
+    "stringify.js"
+  ]
+}
