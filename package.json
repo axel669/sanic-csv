@@ -1,17 +1,17 @@
 {
   "name": "@axel669/sanic-csv",
   "version": "0.1.0",
-  "description": "Fast csv parser for node/browser",
+  "description": "A high brow, fast csv parsing library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/axel669/sanic-csv.git"
   },
   "keywords": [
-    "csv"
+    "csv",
+    "sanic"
   ],
   "author": "Axel",
   "license": "MIT",
