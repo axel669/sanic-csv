@@ -1,5 +1,5 @@
 {
-  "name": "sanic-csv",
+  "name": "@axel669/sanic-csv",
   "version": "0.1.0",
   "description": "Fast csv parser for node/browser",
   "main": "index.js",
